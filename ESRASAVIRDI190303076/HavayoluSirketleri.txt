@@ -1,0 +1,9 @@
+1;Turk Hava Yollari;
+2;Pegasus;
+3;Anadolu Jet;
+4;SunExpress;
+11;Turk Hava Yolları;
+56;Ebagos Air;
+87;Anadolu Jet;
+12;sirket1;
+13;havalimanisirket1;

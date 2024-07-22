@@ -1,0 +1,9 @@
+63876545643;Ahmet Bozkurt;1960\6\4;Yonetici;
+18876545643;Ayşe Temel;2000\10\16;Yolcu;
+78876145643;Sibel Çelik;1989\4\5;KabinUyesi;
+56876545643;Erkan Özer;1986\8\29;Yonetici;
+75876545643;Sevde Çalık;1990\4\6;KabinUyesi;
+98876445643;Sevda Doğan;1986\6\25;Yolcu;
+78816545643;Gonca Ekrem;1987\10\31;Yolcu;
+59876545643;Ezgi Şeker;1957\4\4;Yolcu;
+21680680528;Esra Şavırdi;1999/05/08;Yolcu;

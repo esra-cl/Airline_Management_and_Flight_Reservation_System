@@ -1,0 +1,6 @@
+1 ;2021/07/12-13:15;60;Turkiye;Istanbul;Sabiha Gokcen;Turkiye;Ankara;Esenboga;Airbus A319;Pegasus;4;
+2 ;2022/10/09-13:23;60;Turkiye;Istanbul;Sabiha Gokcen;Turkiye;Ankara;Esenboga;Airbus A320;Turk Hava Yolları;1;
+3 ;2022/11/15-14:30;60;Turkiye;Istanbul;Sabiha Gokcen;Turkiye;Ankara;Esenboga;Airbus A319;SunExpress;3;
+4 ;2022/06/15-14:30;70;Turkiye;Erzurum;Sabiha Gokcen;Turkiye;Ankara;Esenboga;Boeing 737;Anadolu Jet;2;
+12 ;2022/10/06-14:23;40;Turkiye;Erzurum;Esenboga;Turkiye;Hatay;Sabiha Gökcen;Airbus A319;SunExpress;1;
+12;2022/12/12/14:180;180;Turkiye;Erzurum;Suriye;Suriye2;Şam;havalimani2;Airbus A130;gun;4;
