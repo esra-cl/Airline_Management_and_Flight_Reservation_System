@@ -4,3 +4,4 @@
 4;13876545643;Sayit İpek;12;2022/10/09-13:23;Sabiha Gökcen;Esenboga;2;12;1;150;2;
 35;73876545643;Sayit Bozkurt;81;2022/06/15-14:30;Sabiha Gokcen;Esenboga;4;13;1;150;1;
 44;10;esra şavırdi;7;2022/06/15-14:30;Sabiha Gokcen;Esenboga;4;12;2;150;2;
+24;21860860528;ESRA ŞAVIRDİ;51;2022/06/15-14:30;Sabiha Gokcen;Esenboga;4;1;1;150;1;
